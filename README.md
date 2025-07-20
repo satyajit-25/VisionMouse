@@ -91,8 +91,8 @@ Follow these steps to get the project up and running on your local machine.
 
 Watch a short demonstration of the AI Computer Vision Toolkit in action:
 
-[Link to your YouTube video or other hosting platform here]
-*(Replace this with the actual link to your video recording demo, e.g., a YouTube URL.)*
+[https://www.linkedin.com/feed/update/urn:li:ugcPost:7352624318259806209/]
+
 
 ## 📸 Screenshots
 
